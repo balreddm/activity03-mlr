@@ -8,8 +8,6 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(tidymodels)
 library(GGally)
-library(magrittr)
-library(dplyr)
 ```
 
 
